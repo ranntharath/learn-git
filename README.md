@@ -15,3 +15,11 @@
 2. git commit -m "message" # commit message
 3. git push origin main # push to main
 ``` 
+
+## Branch
+``` bash
+git brach # check branch
+git branch <branch-name> # create new branch
+git switch <branch-name> # change branch
+git push -u origin <branch-name> # push code to branch 
+```

@@ -23,3 +23,9 @@ git branch <branch-name> # create new branch
 git switch <branch-name> # change branch
 git push -u origin <branch-name> # push code to branch 
 ```
+## Git Collap
+``` bash
+git fetch origin # fetch remote changes
+git switch <branch-name> # change branch
+git pull origin <branch-name> # pull code to branch 
+```

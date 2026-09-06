@@ -29,3 +29,10 @@ git fetch origin # fetch remote changes
 git switch <branch-name> # change branch
 git pull origin <branch-name> # pull code to branch 
 ```
+
+# Clone Project 
+```bash
+git clone <url> # clone project in same folder
+git clone <url> folder-name # clone project in specific folder
+git clone -b <branch-name> <url> # clone specific branch
+```

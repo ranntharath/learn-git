@@ -36,3 +36,22 @@ git clone <url> # clone project in same folder
 git clone <url> folder-name # clone project in specific folder
 git clone -b <branch-name> <url> # clone specific branch
 ```
+
+
+## Flow how to work Githup Team
+```bash
+- add memeber to git repository
+- git clone <url> # clone project in same folder
+- git branch <branch-name> # create new branch
+- git switch <branch-name> # change branch
+- git add <filename> # add file
+- git commit -m "message" # commit message
+- git push origin <branch-name> # push code to branch 
+# wait for merge to main 
+
+## after merge pull code to branch 
+- git pull origin main
+#  now you can work on new branch
+
+
+```
